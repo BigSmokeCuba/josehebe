@@ -15,7 +15,7 @@ from ProxyCloud import ProxyCloud
 import socket
 import socks
 import asyncio
-from config import USERID
+
 import threading
 
 import S5Crypto
